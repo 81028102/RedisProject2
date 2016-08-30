@@ -18,7 +18,7 @@ public class TestRedis {
 		//查看服务是否运行
 		System.out.println("Server is running:"+jedis.ping());
 		System.out.println("Redis缓存项目");
-		
+		System.out.println("修改");
 		
 	}
 
